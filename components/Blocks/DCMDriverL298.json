@@ -46,10 +46,6 @@
           "part": "DCMotor"
         },
         {
-          "name": "DCMotor_2",
-          "part": "DCMotor"
-        }
-      ],
       "wires": [
         {
           "from": "DCMDriverL298_1.OUT1",
